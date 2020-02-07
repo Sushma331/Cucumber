@@ -12,3 +12,9 @@ Given Navigate to Login Page
 When Enter UserName
 And Enter Password
 Then Click Cancel Button
+
+Scenario: Scenario3
+Given Navigate to Login Page
+When Enter UserName
+And Enter Password
+Then Click Cancel Button
